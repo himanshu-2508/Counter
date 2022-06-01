@@ -1,0 +1,27 @@
+#heading{
+    border: 1px solid black;
+    padding: 15px;
+}
+#count{
+    text-align: center;
+    font-size: 250px;
+    opacity: 70%;
+    color: rgb(22, 90, 22);
+    background-color: rgb(206, 224, 239);
+}
+.button{
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 5px;
+    border-radius: 5px;
+}
+#dec{
+    background-color:antiquewhite;
+}
+#res{
+    background-color:rgb(234, 148, 148);
+}
+#inc{
+    background-color:rgb(151, 188, 208);
+}
